@@ -1,0 +1,29 @@
+/*
+ * succ.css
+ * (C) 2017 Carver Harrison
+ * Licensed under the GPL v3
+*/
+
+body {
+  background-color: white;
+  color: red;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.marquee {
+  width: 300px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+}
+
+.succ-bgvideo {
+  display: none;
+}
+
+.unclickable {
+  position: absolute;
+}
+
+.full-table {
+  width: 100%;
+}
