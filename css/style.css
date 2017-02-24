@@ -28,6 +28,6 @@ body {
   width: 100%;
 }
 
-.90s-background {
+body.90s-background {
   background-image: url(https://thumb1.shutterstock.com/display_pic_with_logo/321865/375851164/stock-vector-retro-vintage-s-or-s-fashion-style-abstract-seamless-pattern-background-good-for-textile-375851164.jpg)
 }
