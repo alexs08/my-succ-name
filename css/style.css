@@ -1,13 +1,7 @@
-/*
- * succ.css
- * (C) 2017 Carver Harrison
- * Licensed under the GPL v3
-*/
-
 body {
-  background-color: white;
-  color: red;
+  color: green;
   font-family: "Comic Sans MS", cursive, sans-serif;
+  background-image: url(https://thumb1.shutterstock.com/display_pic_with_logo/321865/375851164/stock-vector-retro-vintage-s-or-s-fashion-style-abstract-seamless-pattern-background-good-for-textile-375851164.jpg)
 }
 
 .marquee {
@@ -28,6 +22,6 @@ body {
   width: 100%;
 }
 
-body.90s-background {
-  background-image: url(https://thumb1.shutterstock.com/display_pic_with_logo/321865/375851164/stock-vector-retro-vintage-s-or-s-fashion-style-abstract-seamless-pattern-background-good-for-textile-375851164.jpg)
+.succ {
+  content: "succ";
 }
